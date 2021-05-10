@@ -90,8 +90,6 @@ $ https://github.com/LelioH/TGL-Application
 
 # entre na pasta do projeto
 
-$ cd TGL-TheGreatestLottery
-
 ---
 
 ## 🛠️ Tecnologias
