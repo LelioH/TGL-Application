@@ -8,9 +8,7 @@
 <p align="center">
  <a href="#-sobre">Sobre</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-executando-o-happy">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> 
 </p>
 
 ---
@@ -19,7 +17,7 @@
 
 Essa aplicação permite que você faça apostas.
 
-Essa aplicação foi desenvolvida como teste de formação no LabyLubyJS da [LubySoftware](https://www.luby.com.br/).
+Aplicação foi desenvolvida como teste de formação no LabyLubyJS da [LubySoftware](https://www.luby.com.br/).
 
 ---
 
@@ -84,11 +82,11 @@ Essa aplicação foi desenvolvida como teste de formação no LabyLubyJS da [Lub
 
 ---
 
-### ♊ Clonando o Repositório
+### Clonando o Repositório
 
 ```bash
 
-$ git clone https://github.com/johnldev/TGL-TheGreatestLottery
+$ https://github.com/LelioH/TGL-Application
 
 # entre na pasta do projeto
 
@@ -102,7 +100,7 @@ As ferramentas usadas no desenvolvimento do projeto.
 
 #### Web
 - JavaScript
-- ReactJS ⚛️
+- ReactJS 
 - React Router Dom
 - React Icons
 - Axios
